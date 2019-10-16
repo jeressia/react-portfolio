@@ -9,6 +9,7 @@ export class Sidebar extends Component {
     return (
       <div className="Sidebar">
         <h1 className="sidebar-title">Jeressia Williamson</h1>
+        <small>Software Developer</small>
         <img src={bioImg} className="bio-pic" alt="Jeressia"/>
         <ul className="main-links">
           <li>About</li>

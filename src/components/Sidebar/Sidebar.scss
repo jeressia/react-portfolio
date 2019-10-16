@@ -1,14 +1,14 @@
 .Sidebar{
-background-color: #009f9c;
+background-color: #55917F;
 width: 375px;
 min-height: 100vh;
 padding: 20px;
 text-align: center;
-color: rgb(0, 0, 0);
+color: rgb(210, 248, 185);
 }
 .sidebar-title{
 text-transform: uppercase;
-color: #bbfffe;
+color: #fff3e3;
 font-family: 'Montserrat', sans-serif;
 }
 
@@ -28,16 +28,16 @@ ul {
 li {
 padding-top: 15px;
 padding-bottom: 10px;
-border-bottom: 1px solid #ff8400;
+border-bottom: 1px solid #CAFFB9;
 border-bottom-width: 1.5px;
 width: 130px;
 margin: 0 auto;
 text-align: center;
 text-transform: uppercase;
-color: #bbfffe;
+color: #fff3e3;
 }
 
 li:hover{
-  border-bottom: 1.5px solid #ff008c;
+  border-bottom: 1.5px solid #5a455a;
   letter-spacing: 1px;
 }
